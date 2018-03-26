@@ -1,0 +1,12 @@
+git init
+
+git status
+
+git add .
+git commit -m "message"
+git branch (for list of branches)
+git branch savi
+git checkout savi
+
+git log
+git merge savi (first checkout in master then merge in master your branch)
