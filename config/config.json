@@ -1,0 +1,12 @@
+{
+	"mysql":{
+		"host":"localhost",
+		"database":"fresh",
+		"username" :"root",
+		"password": "admin@123"
+	},
+	"app" :"Courses of Savi"
+}
+
+
+

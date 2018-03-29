@@ -1,0 +1,11 @@
+{
+	"autoload":{
+		"psr-4":{
+			"App\\":"app"
+		}
+	},
+	"require": {
+		"filp/whoops": "^2.1",
+		"hassankhan/config": "^1.0"
+	}
+}

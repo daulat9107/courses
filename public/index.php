@@ -1,4 +1,4 @@
-<?php include '../app/init.php' ?>
+<?php require '../app/init.php' ?>
 <?php include DOCUMENT_ROOT.'template/header.php' ?>
 <!-- top nav bar -->
   <?php include DOCUMENT_ROOT.'template/nav.php' ?>
