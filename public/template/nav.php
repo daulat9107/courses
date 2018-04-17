@@ -6,7 +6,7 @@
         <span class="icon-bar"></span> 
       </button>
     <div class="navbar-header">
-      <a class="navbar-brand" href="#"><?php echo $conf->get('app'); ?></a>
+      <a class="navbar-brand" href="#"><?php echo $app->config->get('app'); ?></a>
     </div>
      <div class="collapse navbar-collapse" id="myNavbar">
     <ul class="nav navbar-nav">

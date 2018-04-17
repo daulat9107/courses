@@ -23,8 +23,8 @@
 
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="/courses/public/">Home</a></li>
-          <li class="breadcrumb-item active"><a href="/courses/public/courses.php">Courses</a></li>
+          <li class="breadcrumb-item"><a href="/">Home</a></li>
+          <li class="breadcrumb-item active"><a href="/courses.php">Courses</a></li>
           
         </ol>
       </nav>

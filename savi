@@ -1,0 +1,15 @@
+#!/usr/bin/env php
+<?php
+
+use Symfony\Component\Console\Application;
+
+require __DIR__.'/app/Bootstrap/init.php';
+
+$app=require __DIR__.'/app/Bootstrap/app.php';
+
+$app->singleton('command',function(){
+return new Application();
+});
+
+
+$app->command->run();
